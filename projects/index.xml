@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Bits &amp; Chips</title>
+    <link>https://johnzzhang.github.io/projects/</link>
+    <description>Recent content in Projects on Bits &amp; Chips</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; &lt;a href=&#34;https://github.com/johnzzhang&#34;&gt;John Zhang&lt;/a&gt; 2017</copyright>
+    <lastBuildDate>Sat, 05 Nov 2016 19:41:01 +0530</lastBuildDate>
+    
+	<atom:link href="https://johnzzhang.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Roflcopter</title>
+      <link>https://johnzzhang.github.io/projects/roflcopter/roflcopter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnzzhang.github.io/projects/roflcopter/roflcopter/</guid>
+      <description>&lt;p&gt;Small fighting robots part deux. Roflcopter. Coolest Robot at Bot Blast 2016. Highlight of my three pound career. Flail weapon. Kiwi drive. Bent sheet metal armor.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Slovenia Mania</title>
+      <link>https://johnzzhang.github.io/projects/slovenia-mania/slovenia-mania/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>https://johnzzhang.github.io/projects/slovenia-mania/slovenia-mania/</guid>
+      <description>&lt;p&gt;My first three pound fighting robot. Horizontal bar spinner. Excellent fight video.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Wooden Reindeer Story</title>
+      <link>https://johnzzhang.github.io/projects/wooden-reindeer/wooden-reindeer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://johnzzhang.github.io/projects/wooden-reindeer/wooden-reindeer/</guid>
+      <description>&lt;p&gt;Wooden reindeer carved on a scroll saw. Story in six images.
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

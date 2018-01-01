@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://johnzzhang.github.io/projects/roflcopter/roflcopter/</loc>
+  </url>
+  
+  <url>
+    <loc>https://johnzzhang.github.io/projects/slovenia-mania/slovenia-mania/</loc>
+    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://johnzzhang.github.io/projects/wooden-reindeer/wooden-reindeer/</loc>
+  </url>
+  
+  <url>
+    <loc>https://johnzzhang.github.io/posts/seagull-repair/seagull-repair/</loc>
+    <lastmod>2017-12-24T18:56:10-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://johnzzhang.github.io/page/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://johnzzhang.github.io/</loc>
+    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnzzhang.github.io/page/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://johnzzhang.github.io/page/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnzzhang.github.io/posts/</loc>
+    <lastmod>2017-12-24T18:56:10-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnzzhang.github.io/projects/</loc>
+    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://johnzzhang.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
