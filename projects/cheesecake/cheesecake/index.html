@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"  lang="en-us">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+<title>2.007 Robot: Cheesecake | Bits &amp; Chips</title>
+
+<meta property='og:title' content='2.007 Robot: Cheesecake - Bits &amp; Chips'>
+<meta property='og:description' content='Three and a half robots I built for the 2.007 competition &ldquo;May the Torque be With You.&rdquo;
+'>
+<meta property='og:url' content='https://johnzzhang.github.io/projects/cheesecake/cheesecake/'>
+<meta property='og:site_name' content='Bits &amp; Chips'>
+<meta property='og:type' content='article'><meta property='og:image' content='https://www.gravatar.com/avatar/05562d1acdfc6cf8591e209bf9af9890?s=256'><meta property='article:section' content='Projects'><meta property='article:published_time' content='2016-11-05T19:41:01&#43;05:30'/><meta property='article:modified_time' content='2016-11-05T19:41:01&#43;05:30'/><meta name='twitter:card' content='summary'><meta name='twitter:site' content='@'><meta name='twitter:creator' content='@'>
+<link rel="stylesheet" href="https://johnzzhang.github.io//css/style.css"/>
+<link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet"><link rel='stylesheet' href='/css/custom.css'><link rel="shortcut icon" type="image/png" href="/favicon.png"/>
+</head>
+<body>
+
+<section class="section" style="margin-bottom:-50px">
+  <div class="container">
+    <nav class="nav">
+      <div class="nav-center">
+        <a class="nav-item" href="https://johnzzhang.github.io/"><h1 class="title is-2">Bits &amp; Chips</h1></a>
+      </div>
+    </nav>
+    <nav class="nav">
+      <div class="nav-center">
+      <h2 class="nav-item subtitle is-6">A Web Log Of Interesting Nonsense</h2>
+      </div>
+    </nav>
+  </div>
+  <div class = "container">
+    <div class="nav">
+      <div class="nav-center">
+        <nav class="nav-item level is-mobile">
+          
+        <a class="level-item" title="Blog" href="/posts/">Blog</a>
+
+        <a class="level-item" title="Projects" href="/projects/">Projects</a>
+
+        <a class="level-item" title="Contact" href="/page/contact/">Contact</a>
+
+        <a class="level-item" title="About" href="/page/about/">About</a>
+
+<a class="level-item" href='mailto:johnz@mit.edu' target='_blank' rel='noopener'>
+            <span class="icon">
+              <i class><svg viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+    
+    <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
+    <polyline points="22,6 12,13 2,6"/>
+    
+  </svg></i>
+            </span>
+          </a><a class="level-item" href='https://github.com/johnzzhang' target='_blank' rel='noopener'>
+            <span class="icon">
+              <i class><svg viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
+    
+    <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"/>
+    
+  </svg></i>
+            </span>
+          </a></nav>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="subtitle is-6 is-pulled-right">
+      
+    </div>
+    <h1 class="title">2.007 Robot: Cheesecake</h1>
+    
+    <div class="content">
+      <p>Three and a half robots I built for the 2.007 competition &ldquo;May the Torque be With You.&rdquo;
+</p>
+
+<p>2.007 is the rite of passage of (almost) every Sophomore Mechanical Engineering student. If you&rsquo;ve been an FRC nerd since high school like I have then you&rsquo;ve also been looking forward to this class since your MIT freshman year. The class is centered around a robotics competition with different game objectives every year, in which students learn, explore, and develop their manufacturing and design skills.</p>
+
+<p><img src="/projects/cheesecake/stage.jpg" alt="stage" /></p>
+
+<p>When I took the class, the game was Star Wars themed and the game board was based on a X-wing fighter. It quickly became apparent that the thruster spinning objective would dominate game play this year because of its exponential scoring method. Anyone gunning for the top was making some variant of the thruster spinning robot. Despite holding a strong belief that the autonomous wheel contact spinner, as was the design of the second place robot, Tornado, was the optimal robot design for point scoring, I decided to pursue a different strategy by spreading out top and bottom thruster scoring between two separate robots in order to maximize defense potential. This was possible because the rule book stated that multiple robots are allowed as long as they fit in the starting frame perimeter. It was clear to me then that my goal would be to fit as many robots into the frame perimeter as reasonably possible.</p>
+
+<p><img src="/projects/cheesecake/trio.jpg" alt="trio" /></p>
+
+<p>I ended up with three primary robots, a first for the bottom thruster, a second for the top thruster, and a third immobile scissor lift that would lift the second robot onto the top level. I also constructed a few days before the final competition a stationary catapult that would replace the scissor lift robot for a special strategy to take out Tornado, the only robot I was confident I couldn&rsquo;t outscore. Sadly, in a last minute controversial ruling, it was decided that the catapult did not count as a legal means of crossing the top platform as the wheel it launched was not a &ldquo;robot.&rdquo;</p>
+
+<p>The build of the thruster spinning robots was similar; both using double plate rear-wheel drive styles, a tried-and-true design from my FRC days. The bottom robot had a slower speed gearing for its drive train since I wanted the extra torque for defensive pushing.</p>
+
+<p><img src="/projects/cheesecake/motor.jpg" alt="motor" /></p>
+
+<p>The gearbox motors attached to the plates and the drive axel held in place via roll pin.</p>
+
+<p><img src="/projects/cheesecake/iso1.jpg" alt="iso" />
+<img src="/projects/cheesecake/iso2.jpg" alt="iso" /></p>
+
+<p>Top thruster robot. The thruster spinning mechanism is simple consisting of a single gearbox motor attached to a two pronged fork that mates with the thruster face.</p>
+
+<p>The bottom thruster robot is near identical with the exception of the aforementioned higher gear-ratio and two threaded rods that elevate the spinner to the right height for the bottom thruster.</p>
+
+<p>The real challenge throughout this whole ordeal was designing and building the scissor lift. The thought behind this was to use the scissor lift as a means to access to the top platform through the nose of the X-Wing during the autonomous period. This way I gain the competitive edge by having stage position before my opponent.</p>
+
+<p><img src="/projects/cheesecake/scissor-robot-prototype.jpg" alt="scissor-prototype" /></p>
+
+<p><img src="/projects/cheesecake/scissor-springs.jpg" alt="scissor-springs" /></p>
+
+<p><img src="/projects/cheesecake/stackup.jpg" alt="stack" /></p>
+
+<p><img src="/projects/cheesecake/scissor-high.jpg" alt="scissor-high" /></p>
+
+<p><img src="/projects/cheesecake/scissor-compressed.jpg" alt="scissor-compressed.jpg" /></p>
+
+<p><img src="/projects/cheesecake/scissor-robots.jpg" alt="scissor-robots" /></p>
+    </div>
+    
+  </div>
+</section>
+<section class="section">
+  <div class="container has-text-centered">
+    <p>&copy; <a href="https://github.com/johnzzhang">John Zhang</a> 2017</p>
+    
+  </div>
+</section>
+
+</body>
+</html>
+
